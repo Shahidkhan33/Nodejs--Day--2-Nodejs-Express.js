@@ -42,4 +42,4 @@ https://hall-booking-do0j.onrender.com/users/
 ### for getting particular customers booked data
 
 get method:
-https://hall-booking-do0j.onrender.com/bookings/muthu
+https://hall-booking-do0j.onrender.com/bookings/karthi
