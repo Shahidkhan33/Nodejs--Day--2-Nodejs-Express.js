@@ -1,4 +1,4 @@
-#  GUVI Day 38 task Node-JS hall booking
+# Node-JS hall booking
 
 ## Created task deployed on below link :
 
